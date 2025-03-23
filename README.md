@@ -5,9 +5,15 @@ University project in the form of a Swing GUI application implemented in Java. T
 Detailed description of the project can be found in the folder "Description".
 ## Screenshots
 ![screenshot](Screenshots/picture1.png)
+
 ![screenshot](Screenshots/picture2.png)
+
 ![screenshot](Screenshots/picture3.png)
+
 ![screenshot](Screenshots/picture4.png)
+
 ![screenshot](Screenshots/picture5.png)
+
 ![screenshot](Screenshots/picture6.png)
+
 ![screenshot](Screenshots/picture7.png)
